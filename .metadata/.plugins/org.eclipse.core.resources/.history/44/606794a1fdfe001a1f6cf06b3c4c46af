@@ -1,0 +1,11 @@
+package com.cg.oca;
+
+public class Day1 {
+	String result="done";
+public void shed(boolean time) {
+	if(time) {
+		//String result="done";
+		System.out.println(result);
+	}
+}
+}
